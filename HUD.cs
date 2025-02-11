@@ -10,7 +10,7 @@ namespace Menu_CSharp
     {
         static void Main(string[] args)
         {
-            // Projeto LUC
+            // Projeto LTMC
 
             String MensagemDeBoasVindas = (@"
 
